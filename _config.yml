@@ -13,8 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
+     <p>Projects and blog posts by Andrew Montes</p>
      <p>Data / dev / design @FossilFreeFunds + @AsYouSow</p>
-     <p>Projects and blog posts by yours truly</p>
   header_text_feature_image: assets/img/cuba.jpg
   footer_text: >
    Get in touch
