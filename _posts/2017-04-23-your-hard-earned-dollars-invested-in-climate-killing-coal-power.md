@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "Your hard-earned dollars, invested in climate-killing coal power"
-feature-img: "assets/img/coal.png"
-thumbnail: "assets/img/coal.png"
+feature-img: "assets/img/coal-sm.jpg"
+thumbnail: "assets/img/coal-sm.jpg"
 date:   2017-04-23 11:00:00 -0800
 categories: climate coal
+subtitle: "Fossil Free Funds partners with Macroclimate to expose hidden investments in coal power plants"
 ---
 ## Fossil Free Funds partners with Macroclimate to expose hidden investments in coal power plants
+
+*Originally published on the [As You Sow Blog](https://blog.asyousow.org/your-hard-earned-dollars-invested-in-climate-killing-coal-power-52bb3018de24)*
 
 Experts agree: when it comes to climate change, [the #1 problem is coal.][fff-mc50] But unless you’re seeking out environmentally responsible investment options, it’s likely your savings are being invested in coal-fired utility companies — putting the planet and your finances at risk.
 
@@ -24,7 +27,7 @@ The Macroclimate® 50 is a list of the 50 largest public-company owners of coal-
 
 ### Not all asset managers are equally exposed
 
-<img src="/assets/img/exposure-to-macroclimate-50-direct-stock-investments-by-the-top-20-US-equity-fund-managers.png" alt="Exposure to Macroclimate® 50 direct stock investments by the top 20 U.S. equity fund managers" >
+<a target="_blank" title="Exposure to Macroclimate® 50 direct stock investments by the top 20 U.S. equity fund managers" href="/assets/img/exposure-to-macroclimate-50-direct-stock-investments-by-the-top-20-US-equity-fund-managers-2.png" style="width:100%"><img src="/assets/img/exposure-to-macroclimate-50-direct-stock-investments-by-the-top-20-US-equity-fund-managers-2.png" alt="Exposure to Macroclimate® 50 direct stock investments by the top 20 U.S. equity fund managers" style="width:100%"/></a>
 
 <small>*Exposure to Macroclimate® 50 direct stock investments by the top 20 U.S. equity fund managers. The firms had as low as 0% and as high as 2.38% of their analyzed assets invested in the 50 coal-fired utility stocks. [See the chart data][chart-data]*</small>
 
@@ -39,6 +42,24 @@ SPDR State Street Global Advisors was also last when we ranked the same 20 asset
 Coal is among the largest source of global warming pollution in the world. Obtaining it destroys mountains, burning it releases hazardous emissions, and disposing of it results in hazardous toxic waste.
 
 By continuing to operate coal-fired power plants, these companies are emitting massive amounts of CO2 and fueling climate change — and given coal’s volatility and unsustainable business model, that makes them an increasingly risky investment.
+
+---
+
+#### Want to see the carbon risk and fossil fuel exposure embedded in your portfolio?
+
+Head over to Fossil Free Funds where you can see if your savings are invested in dirty energy sources, and find investment options that support a cleaner, greener future. Learn more at [https://fossilfreefunds.org](https://fossilfreefunds.org).
+
+#### Methodology
+
+We source fund holdings and company industry data from Morningstar. The universe of funds we examined was restricted to equity and balanced portfolios with at least 40% of assets in direct stock holdings, offered as open-end mutual funds or ETFs, and domiciled in the U.S., numbering over 5,000 at time of publication. The data represents the fund holdings delivered by Morningstar in April 2017, with over 90% of portfolios dated 2016–12–31 or later. Learn more at [https://fossilfreefunds.org/how-it-works/](https://fossilfreefunds.org/how-it-works/).
+
+#### Macroclimate®
+
+Macroclimate® is a new kind of investment company: one that uses financial science, expert opinions of climate scientists, and state-of-the-art automation technology to help the general public invest better — in an environmentally-responsible way. For more information visit [macroclimate.com](http://macroclimate.com).
+
+#### Disclaimer
+
+Copyright © 2017 As You Sow. All rights reserved. As You Sow does not provide investment, financial planning, legal or tax advice. Read our full disclaimer at [https://fossilfreefunds.org/disclaimer/](https://fossilfreefunds.org/disclaimer/).
 
 
 [fff]: https://fossilfreefunds.org/

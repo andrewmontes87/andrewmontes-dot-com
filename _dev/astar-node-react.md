@@ -4,7 +4,7 @@ permalink: /dev/astar-node-react/
 title: A* search with Node and React
 img: "assets/img/puzzle_screenshot.png"
 date: 06-11-2017
-tags: [Node, React, Express, Redux, Heroku, PM2, EC2, Babel, Algorithms, Portfolio]
+tags: [JavaScript, Node, React, Express, Redux, Heroku, PM2, EC2, Babel, Algorithms, Portfolio]
 ---
 
 ![Puzzle screenshot]({{ site.baseurl }}/{{ page.img }})

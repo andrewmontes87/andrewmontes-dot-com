@@ -13,14 +13,14 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Projects and blog posts by Andrew Montes</p>
+     <h3>Projects and blog posts by Andrew Montes</h3>
      <p>Data / dev / design @FossilFreeFunds + @AsYouSow</p>
-  header_text_feature_image: assets/img/cuba.jpg
+  header_text_feature_image: assets/img/mendocino-small.jpg
   footer_text: >
    Get in touch
 
   # Icons
-  rss: true
+  rss: false
   email_address: "andrewmontes87@gmail.com"
   behance:
   bitbucket:
@@ -47,6 +47,7 @@ theme_settings:
   disqus_shortname:
   katex: true # Enable if using math markup
   dev: true
+  letters: true
   search: false
   tags: true
   
@@ -76,6 +77,9 @@ paginate_path: "blog/page:num"
 # PORTFOLIO
 collections:
   dev:
+    output: true
+    permalink: /:collection/:name
+  letters:
     output: true
     permalink: /:collection/:name
 

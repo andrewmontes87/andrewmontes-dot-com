@@ -1,0 +1,26 @@
+--- 
+layout: bootstrap 
+title : /letters
+permalink: /letters/
+feature-img: "assets/img/protest.jpg"
+description: "In 2010-2011 I wrote close to 50 letters to President Obama as a writing project, addressing a range of issues. I sent almost all the letters through the White House's website contact form, though a handful were sent in by paper mail. I received two responses."
+hide: true
+---
+
+<!-- Portfolio Grid Section -->
+<section class="portfolio">
+
+    <div class="row">
+
+		{% assign sorted = site.letters | sort: 'date' | reverse %}
+	    {% for item in sorted %}
+        <div class="portfolio-item">
+            <a href="{{ site.baseurl }}{{ item.url }}.html" class="portfolio-link" data-keyboard="true">
+                {{ item.title }}
+                <br/>
+                <small><em>{{ item.date | date: "%B %-d, %Y" }}</em></small>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</section>

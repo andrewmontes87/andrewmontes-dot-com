@@ -30,21 +30,28 @@
         {% endfor %} 
         {% if site.theme_settings.dev %}
         <li>
-            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/dev">
+            <a class="clear" href="{{ site.url }}/dev">
                 /dev
+            </a>
+        </li>
+        {% endif %}
+        {% if site.theme_settings.letters %}
+        <li>
+            <a class="clear" href="{{ site.url }}/letters">
+                /letters
             </a>
         </li>
         {% endif %}
         {% if site.theme_settings.portfolio %}
         <li>
-            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/search">
+            <a class="clear" href="{{ site.url }}/search">
                 /search
             </a>
         </li>
         {% endif %}
         {% if site.theme_settings.tags %}
         <li>
-            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/tags">
+            <a class="clear" href="{{ site.url }}/tags">
                 /tags
             </a>
         </li>

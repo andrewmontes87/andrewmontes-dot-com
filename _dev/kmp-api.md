@@ -1,19 +1,30 @@
 ---
 layout: post
 permalink: /dev/kmp-api/
-title: Knuth-Morris–Pratt
+title: "AWS Lambda: Knuth-Morris–Pratt"
 img: "assets/img/aws-lambda-api-gateway-python-logos.png"
 date: 05-11-2017
 tags: [Python, AWS Lambda, AWS API Gateway, Algorithms, Portfolio]
 ---
 
-[Knuth–Morris–Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) string searching using AWS Lambda + API Gateway. URL parameters: `P` is pattern, `T` is text. The API returns a JSON object with an array `matches` is indices of `T` where `P` is found.
+[Knuth–Morris–Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) string searching using AWS Lambda + API Gateway. URL parameters: `P` is pattern, `T` is text. The API returns a JSON object with an array `matches` is indices of `T` where `P` is found. The form below uses React to fetch and render matches.
 
-[Try it out][kmp-api]
+<style>
+    textarea{
+        width: 100%;
+    }
+</style>
+<blockquote>
+<div id="kmp-react"></div>
+</blockquote>
+<script src="/assets/js/main.df0668df.js"></script>
+
+---
 
 #### Built with
 
 <img src="/assets/img/aws-lambda-api-gateway-python-logos.png" />
+
 
 #### Codebase
 

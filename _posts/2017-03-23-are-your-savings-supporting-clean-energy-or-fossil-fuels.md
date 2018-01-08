@@ -3,6 +3,7 @@ layout: post
 title:  "Are your savings supporting clean energy or fossil fuels?"
 date:   2017-03-23 11:00:00 -0800
 categories: climate
+subtitle: "U.S. fund managers have far more invested in coal, oil, and gas than companies with green revenue — but a few are bucking the trend"
 ---
 ## U.S. fund managers have far more invested in coal, oil, and gas than companies with green revenue — but a few are bucking the trend
 

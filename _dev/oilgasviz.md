@@ -5,7 +5,7 @@ title: Largest oil and gas companies by revenue
 feature-img: "assets/img/oilgasviz_social_share.png"
 img: "assets/img/oilgasviz-screenshot.png"
 date: 04-11-2017
-tags: [Python, Scrapy, MongoDB, Eve, Flask, D3, Materialize, Heroku, Visualizations, Portfolio]
+tags: [Python, Scrapy, MongoDB, Eve, Flask, JavaScript, D3, Materialize, Heroku, Visualizations, Portfolio]
 ---
 
 This visualization highlights the largest oil and gas companies by revenue. First, the raw data is collected from Wikipedia using Scrapy spiders. The data is cleaned with pandas, and stored in a MongoDB database. An Eve server offers a convenient REST API to access the database, while a Flask server provides the front end. The visualizations are powered by D3 and styled with Materialize. This Python + JavaScript 'dataviz' stack is deployed as two Heroku apps - one for the Eve server, and one for the Flask server.
