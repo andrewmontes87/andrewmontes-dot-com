@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    
+
     <!-- JQuery (used for bootstrap and jekyll search) -->
     <script src="{{ site.baseurl }}/assets/js/jquery-3.2.1.min.js" ></script>
     
@@ -62,8 +62,38 @@
     <!-- seo tags -->
     {% seo %}
     <!-- Manual seo tags -->
-    <!--
-    <title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.theme_settings.title }}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
-    -->
+
+      <!-- <meta name="description" content="andrewmontes.com - Projects and blog posts by Andrew Montes. Data / dev / design @FossilFreeFunds + @AsYouSow" /> -->
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.theme_settings.title }}"/>
+    <meta itemprop="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}"/>
+    <meta itemprop="image" content="https://andrewmontes.com/assets/img/mendocino-small.jpg" />
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@andrewm_ahoy"/>
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.theme_settings.title }}"/>
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}"/>
+    <meta name="twitter:creator" content="@andrewm_ahoy"/>
+    <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:image:src" content="https://andrewmontes.com/assets/img/mendocino-small.jpg" />
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.theme_settings.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://andrewmontes.com" />
+    <meta property="og:image" content="https://andrewmontes.com/assets/img/mendocino-small.jpg" />
+    <meta property="og:image:url" content="https://andrewmontes.com/assets/img/mendocino-small.jpg"  />
+    <meta property="og:image:secure_url" content="https://andrewmontes.com/assets/img/mendocino-small.jpg"  />
+
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1131" />
+    <meta property="og:image:height" content="290" />
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}" />
+    <meta property="og:site_name" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.theme_settings.title }}" />
+
+
 </head>

@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://andrewmontes.com"
+url: "https://andrewmontes.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Andrew Montes
+  title: andrewmontes.com
   avatar: assets/img/andrew-montes-circle.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
