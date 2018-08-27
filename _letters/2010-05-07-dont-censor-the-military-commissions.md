@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "11:  Don't Censor the Military Commissions "
 date: 07-05-2010
 ---

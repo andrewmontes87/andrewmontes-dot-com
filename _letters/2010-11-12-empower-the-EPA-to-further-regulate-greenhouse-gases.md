@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "44:  Empower the EPA to Further Regulate Greenhouse Gases"
 date: 12-11-2010 02:00
 ---

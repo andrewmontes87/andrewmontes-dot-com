@@ -1,5 +1,5 @@
----
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "49: Torture in Poland"
 date: 17-01-2011
 ---

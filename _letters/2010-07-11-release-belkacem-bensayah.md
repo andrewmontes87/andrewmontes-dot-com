@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "30:  Release Belkacem Bensayah"
 date: 11-07-2010
 ---

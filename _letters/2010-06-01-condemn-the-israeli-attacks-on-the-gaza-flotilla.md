@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "16: Condemn the Israeli attacks on the Gaza Freedom Flotilla"
 date: 01-06-2010
 ---

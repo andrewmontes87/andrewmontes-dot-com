@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "48: Executive Order Indefinite Detention and the Inertia of Guantanamo Bay "
 date: 08-01-2011
 ---

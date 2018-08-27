@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "17: British Torture Investigation"
 date: 03-06-2010
 ---

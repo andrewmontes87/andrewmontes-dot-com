@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "33:  Al-Qosi's Secret Sentence "
 date: 18-08-2010 01:00
 ---

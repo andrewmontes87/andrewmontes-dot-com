@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "12:  Elena Kagan and Executive Authority "
 date: 10-05-2010
 ---

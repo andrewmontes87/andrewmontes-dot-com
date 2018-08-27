@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "43:  Prosecute War Crimes in Iraq "
 date: 12-11-2010 01:00
 ---

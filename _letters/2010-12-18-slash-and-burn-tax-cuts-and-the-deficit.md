@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "46:  Slash and Burn: Tax Cuts and the Deficit"
 date: 18-12-2010
 ---

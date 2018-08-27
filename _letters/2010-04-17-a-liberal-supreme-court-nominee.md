@@ -1,5 +1,7 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "2: A Liberal Supreme Court Nominee"
 date: 17-04-2010
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "7:  Peace with Iran"
 date: 26-04-2010
 ---

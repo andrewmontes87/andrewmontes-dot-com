@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "22:  Justice for Maher Arar "
 date: 14-06-2010
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "8:  Boumediene and Omar Khadr "
 date: 27-04-2010
 ---

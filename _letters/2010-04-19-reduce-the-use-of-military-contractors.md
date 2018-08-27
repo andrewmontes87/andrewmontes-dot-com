@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "4: Reduce the Use of Military Contractors "
 date: 19-04-2010
 ---

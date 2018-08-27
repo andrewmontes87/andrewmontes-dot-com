@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "13:  Close the 'Black Prison'"
 date: 12-05-2010
 ---

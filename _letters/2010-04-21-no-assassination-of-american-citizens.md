@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "5: No Assassination of American Citizens"
 date: 21-04-2010
 ---

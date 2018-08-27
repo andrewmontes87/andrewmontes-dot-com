@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "40:  Illegal Spying by the FBI on Political Groups"
 date: 01-10-2010
 ---

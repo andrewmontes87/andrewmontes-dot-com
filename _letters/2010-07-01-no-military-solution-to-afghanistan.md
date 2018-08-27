@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "27:  No Military Solution to Afghanistan "
 date: 01-07-2010
 ---

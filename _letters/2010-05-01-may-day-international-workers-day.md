@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "9:  May Day - International Workers' Day "
 date: 01-05-2010
 ---

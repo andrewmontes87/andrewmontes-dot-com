@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "47:  Death of a DREAM "
 date: 23-12-2010
 ---

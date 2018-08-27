@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "25:  Preliminary Torture Review Nearing Completion"
 date: 24-06-2010
 ---

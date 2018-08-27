@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "18:  Justice for Furkan Dogan "
 date: 04-06-2010
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "15:  No 'Guantanamo North' "
 date: 24-05-2010
 ---

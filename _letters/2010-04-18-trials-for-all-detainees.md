@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "3: Trials for All Detainees"
 date: 18-04-2010
 ---

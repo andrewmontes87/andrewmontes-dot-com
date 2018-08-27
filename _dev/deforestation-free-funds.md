@@ -5,6 +5,7 @@ title: Deforestation Free Funds
 img: "assets/img/dff-share.png"
 date: 02-11-2017
 tags: [Python, Pandas, Jupyter, SQLite, JavaScript, EC2, Node, PostgreSQL, LoopBack, Heroku, React, Redux, Portfolio]
+nodate: True
 ---
 
 ![Deforestation Free Funds screenshot]({{ site.baseurl }}/{{ page.img }})
@@ -15,7 +16,7 @@ Palm oil production is the among the fastest growing causes of rainforest destru
 
 Deforestation Free Funds uses a similar stack as Fossil Free Funds to analyze portfolios and measure tobacco exposure. A Python data analysis pipeline calculates exposure for each fund, including a Palm Oil Grade. [@jobacao][jcao] helped us build a Node back end which further analyzes fund holdings and exposes  results via API, and a front end built with React and Redux. Design by [humanaut][humanaut]. Deforestation Free Funds is a project of As You Sow.
 
-[Try it out: https://www.deforestationfreefunds.org/][dff]
+[Try it out: https://deforestationfreefunds.org/][dff]
 
 #### Built with
 
@@ -33,6 +34,6 @@ Deforestation Free Funds uses a similar stack as Fossil Free Funds to analyze po
 <img src="/assets/img/react_logo.png" alt="React" style="width: 15%; padding: 5px;"/>
 <img src="/assets/img/redux_logo.png" alt="Redux" style="width: 15%; padding: 5px;"/>
 
-[dff]: https://www.deforestationfreefunds.org
+[dff]: https://deforestationfreefunds.org
 [jcao]: https://github.com/jobacao
 [humanaut]: http://www.humanaut.is/

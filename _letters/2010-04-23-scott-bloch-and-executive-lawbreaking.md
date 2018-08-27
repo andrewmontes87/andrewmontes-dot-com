@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "6: Scott Bloch and Executive Lawbreaking"
 date: 23-04-2010
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "29:  Use Law Enforcement to Prosecute Terrorists "
 date: 08-07-2010
 ---

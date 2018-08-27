@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "37:  Celebrating Labor Day"
 date: 04-09-2010
 ---

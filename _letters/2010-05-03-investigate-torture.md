@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "10:  Investigate Torture"
 date: 03-05-2010
 ---

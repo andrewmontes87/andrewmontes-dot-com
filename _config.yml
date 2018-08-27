@@ -13,9 +13,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h3>Projects and blog posts by Andrew Montes</h3>
-     <p>Data / dev / design @FossilFreeFunds + @AsYouSow</p>
-  header_text_feature_image: assets/img/mendocino-small.jpg
+     <h2>Projects and blog posts</h2>
+     <p>Andrew Montes - Data / dev / design @FossilFreeFunds + @AsYouSow</p>
+  header_text_feature_image: assets/img/agnes-martin.jpg
   footer_text: >
    Get in touch
 

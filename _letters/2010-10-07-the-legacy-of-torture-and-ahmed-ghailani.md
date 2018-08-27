@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "41:  The Legacy of Torture and Ahmed Ghailani "
 date: 07-10-2010
 ---

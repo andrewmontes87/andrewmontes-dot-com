@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "26:  Holder v. Humanitarian Law Project"
 date: 28-06-2010
 ---

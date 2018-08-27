@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "42:  Why Appeal the DADT Repeal?"
 date: 04-11-2010
 ---

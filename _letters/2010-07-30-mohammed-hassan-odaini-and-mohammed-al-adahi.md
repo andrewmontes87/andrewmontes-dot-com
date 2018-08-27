@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "31:  Mohammed Hassan Odaini and Mohammed al-Adahi "
 date: 30-07-2010
 ---

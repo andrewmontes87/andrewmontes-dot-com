@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "20:  An Energy Policy for the 21st Century "
 date: 10-06-2010
 ---

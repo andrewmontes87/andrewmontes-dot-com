@@ -2,9 +2,11 @@
 layout: post
 permalink: /dev/kmp-go/
 title: "Golang: Knuth-Morris–Pratt"
+feature-img: "assets/img/golang.png"
 img: "assets/img/kmp-go.png"
 date: 08-01-2018
 tags: [Golang, Heroku, Algorithms, Portfolio]
+nodate: True
 ---
 
 A simple Go web app implementing [Knuth–Morris–Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) string searching. Hosted on Heroku.

@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "32:  Robert Gibbs and the Drug-Addled Left "
 date: 10-08-2010
 ---

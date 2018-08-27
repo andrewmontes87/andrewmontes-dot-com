@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "14:  Stop the Drone Attacks "
 date: 18-05-2010
 ---

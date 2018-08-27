@@ -61,10 +61,17 @@
             @media screen and (max-width: $break) {
                 height: 150px;
             }
+
+            .post-link {
+                display: block;
+                width: 100%;
+            }
+            
         }
 
         .post-img img {
             //max-width: 100%;
+            width: 100%;
             -moz-transform: scale(1);
             -webkit-transform: scale(1);
             transform: scale(1);

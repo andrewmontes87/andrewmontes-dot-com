@@ -2,9 +2,11 @@
 layout: post
 permalink: /dev/astar-node-react/
 title: A* search with Node and React
+feature-img: "assets/img/agnes-martin-3.jpg"
 img: "assets/img/puzzle_screenshot.png"
-date: 06-11-2017
+date: 07-11-2017
 tags: [JavaScript, Node, React, Express, Redux, Heroku, PM2, EC2, Babel, Algorithms, Portfolio]
+nodate: True
 ---
 
 ![Puzzle screenshot]({{ site.baseurl }}/{{ page.img }})

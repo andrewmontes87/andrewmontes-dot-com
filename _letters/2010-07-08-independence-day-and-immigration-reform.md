@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "28:  Independence Day and Immigration Reform "
 date: 08-07-2010
 ---

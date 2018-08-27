@@ -6,6 +6,7 @@ feature-img: "assets/img/shmup.png"
 img: "assets/img/shmup.png"
 date: 08-11-2017
 tags: [HTML5, JavaScript, Coquette, Portfolio]
+nodate: True
 ---
 
 Sometimes you just want to play a spaceship game. Try your hand at Shmup, a simple game using the [Coquette][coquette] JavaScript micro-framework and the HTML5 Canvas API. Control the blue rectangle by holding left-click, or use the arrow keys and spacebar. Fight through the waves of enemies and defeat the boss to earn the high score.

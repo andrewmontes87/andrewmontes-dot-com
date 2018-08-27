@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "A Question for Congressman Kucinich "
 date: 18-06-2010
 ---

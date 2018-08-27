@@ -3,8 +3,10 @@ layout: post
 permalink: /dev/todo-crud-flask/
 title: "TODO List: Flask"
 img: "assets/img/og_img.png"
+feature-img: "assets/img/agnes-martin-2.jpg"
 date: 08-11-2017
 tags: [Python, Flask, MongoDB, Heroku, Portfolio]
+nodate: True
 ---
 
 ![todo-crud-flask screenshot]({{ site.baseurl }}/{{ page.img }})

@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "21:  Bagram is a Neo-Guantanamo "
 date: 11-06-2010
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "24:  World Refugee Day "
 date: 23-06-2010
 ---

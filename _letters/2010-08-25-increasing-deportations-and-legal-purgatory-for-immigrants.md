@@ -1,5 +1,6 @@
 ---
 layout: post
+feature-img: "assets/img/agnes-martin-3.jpg"
 title: "36:  Increasing Deportations and 'Legal Purgatory' for Immigrants"
 date: 25-08-2010
 ---
