@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your hard-earned dollars, invested in climate-killing coal power"
+title:  "[BLOG] Your hard-earned dollars, invested in climate-killing coal power"
 feature-img: "assets/img/coal-sm.jpg"
 thumbnail: "assets/img/coal-sm.jpg"
 date:   2017-04-23 11:00:00 -0800

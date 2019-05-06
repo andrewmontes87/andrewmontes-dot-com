@@ -1,9 +1,9 @@
 ---
 layout: post
-permalink: /dev/tobacco-free-funds/
-title: Tobacco Free Funds
-img: "assets/img/tff-pie.png"
-date: 03-11-2017
+permalink: /dev/gender-equality-funds/
+title: Gender Equality Funds
+img: "assets/img/gef-img.jpg"
+date: 12-11-2016
 tags: [Python, Pandas, Jupyter, SQLite, JavaScript, EC2, Node, PostgreSQL, LoopBack, Heroku, React, Redux, Portfolio]
 nodate: True
 ---
@@ -22,18 +22,26 @@ nodate: True
 </style>
 
 
+Gender Equality Funds, the fifth of As You Sow's Invest Your Values sites, is a free, online tool that enables individual and institutional investors to apply a gender lens to mutual fund and ETF investments. Gender Equality Funds screens the specific holdings of about 5,000 of the most commonly-held U.S. mutual funds—including financial giants like Vanguard, BlackRock, and State Street—against a database detailing individual company performance on 12 key gender equality performance indicators. 
 
-Tobacco Free Funds, the third site from As You Sow's Invest Your Values program, analyzes mutual funds and ETFs for stock investments in both cigarette companies and entertainment companies that produce and distribute youth-rated films with imagery of tobacco.
-
-## Try it out: [tobaccofreefunds.org][tff]
-
-<i>&nbsp;</i>
-
-![Tobacco Free Funds screenshot]({{ site.baseurl }}/{{ page.img }})
+## Try it out: [genderequalityfunds.org][gef]
 
 <i>&nbsp;</i>
 
-Tobacco Free Funds uses a similar stack as Fossil Free Funds to analyze portfolios and measure tobacco exposure. A Python data analysis pipeline calculates exposure for each fund, including a Tobacco Grade. [@jobacao][jcao] helped us build a Node back end which further analyzes fund holdings and exposes  results via API. The front end is built with React and Redux. Tobacco Free Funds is a project of As You Sow.
+![Gender Equality Funds screenshot]({{ site.baseurl }}/{{ page.img }})
+
+<i>&nbsp;</i>
+
+**Project highlights:**
+
+- created a comprehensive product vision and development timeline
+- analyzed source data and developed a methodology to score and rank funds on gender equality KPIs
+- built a Python data analysis pipeline to calculate scores for over 5,000 U.S. mutual funds
+- expanded our Node.JS back end ETL pipeline and REST API
+- constructed a front end with React and Redux, with design by [Indigo Creative Studio][indigo] and myself
+
+
+<i>&nbsp;</i>
 
 
 #### Built with
@@ -52,6 +60,7 @@ Tobacco Free Funds uses a similar stack as Fossil Free Funds to analyze portfoli
 <img src="/assets/img/react_logo.png" alt="React" style="width: 15%; padding: 5px;"/>
 <img src="/assets/img/redux_logo.png" alt="Redux" style="width: 15%; padding: 5px;"/>
 
-[tff]: https://tobaccofreefunds.org
+[gef]: https://genderequalityfunds.org
 [jcao]: https://github.com/jobacao
+[indigo]: http://indigocreativestudio.com/
 

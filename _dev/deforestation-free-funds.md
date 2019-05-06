@@ -8,15 +8,36 @@ tags: [Python, Pandas, Jupyter, SQLite, JavaScript, EC2, Node, PostgreSQL, LoopB
 nodate: True
 ---
 
+<style>
+  ul {
+	list-style-position: outside;
+	padding-left: 40px;
+  }
+  .post-content li {
+  	margin-top: 8px;
+  }
+	header h1 {
+		text-shadow: 0px 0px 0px #ffffff !important;
+	}
+</style>
+
+
+
+
+Palm oil production is the among the fastest growing causes of rainforest destruction, and rainforest destruction is the second biggest driver of climate change after the burning of fossil fuels. If it was up to you, your money wouldn’t be used to finance this destruction. But would you know it if it was? [Deforestation Free Funds][dff] examines mutual fund holdings data, provided by Morningstar, and scans for investments in palm oil. See how much money your funds have invested in the palm oil industry - whether in palm oil producers, the banks who finance them, or the brands who use palm oil in their products.
+
+
+## Try it out: [deforestationfreefunds.org][dff]
+
+<i>&nbsp;</i>
+
 ![Deforestation Free Funds screenshot]({{ site.baseurl }}/{{ page.img }})
 
-Palm oil production is the among the fastest growing causes of rainforest destruction, and rainforest destruction is the second biggest driver of climate change after the burning of fossil fuels. If it was up to you, your money wouldn’t be used to finance this destruction. But would you know it if it was?
-
-[Deforestation Free Funds][dff] examines mutual fund holdings data, provided by Morningstar, and scans for investments in palm oil. See how much money your funds have invested in the palm oil industry - whether in palm oil producers, the banks who finance them, or the brands who use palm oil in their products.
+<i>&nbsp;</i>
 
 Deforestation Free Funds uses a similar stack as Fossil Free Funds to analyze portfolios and measure tobacco exposure. A Python data analysis pipeline calculates exposure for each fund, including a Palm Oil Grade. [@jobacao][jcao] helped us build a Node back end which further analyzes fund holdings and exposes  results via API, and a front end built with React and Redux. Design by [humanaut][humanaut]. Deforestation Free Funds is a project of As You Sow.
 
-[Try it out: https://deforestationfreefunds.org/][dff]
+<i>&nbsp;</i>
 
 #### Built with
 

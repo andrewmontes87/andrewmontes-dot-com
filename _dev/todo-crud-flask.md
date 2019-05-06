@@ -9,13 +9,17 @@ tags: [Python, Flask, MongoDB, Heroku, Portfolio]
 nodate: True
 ---
 
-![todo-crud-flask screenshot]({{ site.baseurl }}/{{ page.img }})
+Building a TODO app is the "Hello World" of exploring a new CRUD programming framework. This one is built with Flask and MongoDB, using Flask-WTForms. Create an account with a username and password. Earn points by creating TODO notes and saving them to your user dashboard. Updating notes or deleting them also earns points - as your score increases, you'll level up! Update your profile with your email address, or delete your account to erase your data, including all your notes. The app is deployed on Heroku. 
 
-Building a TODO list app is like the "Hello World" of exploring a new CRUD programming framework. This one is built with Flask and MongoDB, using Flask-WTForms. Create an account with a username and password. Earn points by creating TODO notes and saving them to your user dashboard. Updating notes or deleting them also earns points - as your score increases, you'll level up! Update your profile with your email address, or delete your account to erase your data, including all your notes. The app is deployed on Heroku. 
-
-[Try it out: https://todo-crud-flask.herokuapp.com/][todo-crud-flask]
+## Try it out: [todo-crud-flask.herokuapp.com][todo-crud-flask]
 
 *Hosted on free tier, give it a moment to load*
+
+<i>&nbsp;</i>
+
+![todo-crud-flask screenshot]({{ site.baseurl }}/{{ page.img }})
+
+<i>&nbsp;</i>
 
 #### Built with
 

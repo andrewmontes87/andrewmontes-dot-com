@@ -9,13 +9,25 @@ tags: [JavaScript, Node, React, Express, Redux, Heroku, PM2, EC2, Babel, Algorit
 nodate: True
 ---
 
-![Puzzle screenshot]({{ site.baseurl }}/{{ page.img }})
+<style>
+.puzzleBox td,.puzzleBox tr,table.puzzleBox{opacity:1}table.puzzleBox{width:auto}.puzzleBox td{width:3em;height:3em;font-size:1.5em;text-align:center;opacity:1;border:5px solid grey;border-style:inset;cursor:pointer}.puzzleBox .emptyCell{background-color:#fff;opacity:0}.puzzleBox .fullCell{background-color:#ddd;opacity:1}
 
-The n-puzzle is a classical problem for modelling algorithms involving heuristics. [This project][react-sliding-puzzle] solves 3x3 sliding puzzles with the A* pathfinding search algorithm, using Manhattan distance for a heuristic. The interactive puzzle board is built with React + Redux. Puzzles are posted to a Node.js + Express microservice, the A* algorithm computes the solution, and the steps are returned to be played out for the user. Both the front and back ends use Babel and ES6. The back end API is deployed to an AWS EC2 instance using PM2, while the front end is deployed with Heroku.
+.solvedPuzzle .fullCell{background-color:#9ac659 !important}
 
-**[Try it out: http://react-sliding-puzzle.herokuapp.com/][react-sliding-puzzle]**
+.movesListTitle{margin-top:2em}.shuffleButton{font-size:1em;margin-top:1em;margin-right:1em;padding:1em 3em}
+</style>
 
-*Hosted on free tier, give it a moment to load*
+
+The n-puzzle is a classical problem for modeling algorithms involving heuristics. This project solves 3x3 sliding puzzles with the A* pathfinding search algorithm, using Manhattan distance for a heuristic. The interactive puzzle board is built with React + Redux. Puzzles are posted to a Node.js + Express microservice, the A* algorithm computes the solution, and the steps are returned to be played out for the user. Both the front and back ends use Babel and ES6. The back end API is deployed to an AWS EC2 instance using PM2.
+
+
+
+<div id="astar-react"></div>
+<script src="/assets/js/main.astar.0.1.4.js"></script>
+
+
+
+<i>&nbsp;</i>
 
 
 #### Built with
@@ -28,15 +40,14 @@ The n-puzzle is a classical problem for modelling algorithms involving heuristic
 
 <img src="/assets/img/react_logo.png" alt="React" style="width: 15%; padding: 5px;"/>
 <img src="/assets/img/redux_logo.png" alt="Redux" style="width: 15%; padding: 5px;"/>
-<img src="/assets/img/heroku.svg" alt="Heroku" style="width: 7%; padding: 5px;"/>
 
-#### Codecase
+#### Codebase
 
 [Github: back end A* solver with Node.js][github-node-puzzle]
 
 [Github: front end puzzle UI with React][github-react-puzzle]
 
 
-[react-sliding-puzzle]: http://react-sliding-puzzle.herokuapp.com/
+[react-sliding-puzzle]: https://react-sliding-puzzle.herokuapp.com/
 [github-node-puzzle]: https://github.com/andrewmontes87/node-sliding-puzzle
 [github-react-puzzle]: https://github.com/andrewmontes87/react-sliding-puzzle

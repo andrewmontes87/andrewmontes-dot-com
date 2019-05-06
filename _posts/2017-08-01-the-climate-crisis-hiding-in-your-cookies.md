@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The climate crisis hiding in your cookies"
+title:  "[BLOG] The climate crisis hiding in your cookies"
 feature-img: "assets/img/clearcutting.jpeg"
 thumbnail: "assets/img/clearcutting.jpeg"
 date:   2017-08-01 11:00:00 -0800

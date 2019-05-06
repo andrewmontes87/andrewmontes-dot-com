@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Carbon polluting coal plants? In my retirement savings?!"
+title:  "[BLOG] Carbon polluting coal plants? In my retirement savings?!"
 feature-img: "assets/img/coal-power-plants-sm.jpg"
 thumbnail: "assets/img/coal-power-plants-sm.jpg"
 date:   2018-08-27 11:00:00 -0800

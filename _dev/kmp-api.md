@@ -32,7 +32,7 @@ nodate: True
 
 [Github: AWS Lambda function][github-kmp]
 
-This one is short enough to print the whole thing here:
+This algorithm is concise enough to print the whole thing here:
 
 <pre>
 

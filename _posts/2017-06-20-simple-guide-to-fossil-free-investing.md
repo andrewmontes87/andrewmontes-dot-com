@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple guide to fossil free investing"
+title:  "[BLOG] Simple guide to fossil free investing"
 feature-img: "assets/img/simple-guide-graphic.png"
 thumbnail: "assets/img/simple-guide-graphic.png"
 date:   2017-06-20 11:00:00 -0800

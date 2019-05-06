@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /about
+title: About me
 permalink: /about/
 feature-img: "assets/img/coffee.jpg"
 ---

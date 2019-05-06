@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Are you funding gun violence?"
+title:  "[BLOG] Are you funding gun violence?"
 feature-img: "assets/img/wff-background.jpg"
 thumbnail: "assets/img/wff-screenshot-big.png"
 date:   2018-07-14 11:00:00 -0800

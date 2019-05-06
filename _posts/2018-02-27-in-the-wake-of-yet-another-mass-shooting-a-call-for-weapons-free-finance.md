@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In the wake of yet another mass shooting, a call for weapons-free finance"
+title:  "[BLOG] In the wake of yet another mass shooting, a call for weapons-free finance"
 feature-img: "assets/img/gun-march.png"
 thumbnail: "assets/img/gun-march.png"
 date:   2018-02-27 11:00:00 -0800

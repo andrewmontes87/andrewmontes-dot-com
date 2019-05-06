@@ -8,15 +8,34 @@ tags: [Python, Pandas, Jupyter, SQLite, JavaScript, EC2, Node, PostgreSQL, LoopB
 nodate: True
 ---
 
+<style>
+  ul {
+	list-style-position: outside;
+	padding-left: 40px;
+  }
+  .post-content li {
+  	margin-top: 8px;
+  }
+	header h1 {
+		text-shadow: 0px 0px 0px #ffffff !important;
+	}
+</style>
+
+
+Fossil fuel investments carry real financial risks. Over the past years, a growing divestment movement of institutional and individual investors representing more than $5tn in assets under management have responded to this risk by divesting all or some of their fossil fuel investments. [Fossil Free Funds][fff] analyzes the climate impact of thousands of common mutual funds and shows you if your money is being invested in fossil fuel companies, or companies with high carbon footprints. 
+
+## Try it out: [fossilfreefunds.org][fff]
+
+<i>&nbsp;</i>
+
 ![Fossil Free Funds screenshot]({{ site.baseurl }}/{{ page.img }})
 
-Fossil fuel investments carry real financial risks. Over the past years, a growing divestment movement of institutional and individual investors representing more than $5tn in assets under management have responded to this risk by divesting all or some of their fossil fuel investments.
+<i>&nbsp;</i>
 
-[Fossil Free Funds][fff] analyzes the climate impact of thousands of common mutual funds and shows you if your money is being invested in fossil fuel companies, or companies with high carbon footprints. 
 
 A Python data analysis pipeline calculates exposure for each fund. [@jobacao][jcao] helped us build a Node back end which further analyzes fund holdings and exposes results via a series of APIs. The front end is built with React and Redux. Design by [Indigo Creative Studio][indigo] and myself. Fossil Free Funds is a project of As You Sow.
 
-[Try it out: https://fossilfreefunds.org/][fff]
+<i>&nbsp;</i>
 
 #### Built with
 

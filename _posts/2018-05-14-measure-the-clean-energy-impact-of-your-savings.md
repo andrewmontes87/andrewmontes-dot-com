@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Measure the clean energy impact of your savings"
+title:  "[BLOG] Measure the clean energy impact of your savings"
 feature-img: "assets/img/sunset-solar-sm.jpg"
 thumbnail: "assets/img/sunset-solar-sm.jpg"
 date:   2018-05-14 11:00:00 -0800

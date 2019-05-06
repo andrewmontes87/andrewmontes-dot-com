@@ -11,11 +11,17 @@ nodate: True
 
 We can help build a more peaceful world by reducing the power of those who profit from violence. Investors have the power to cut ties with the corporations at the root of militarism and gun violence, and to reinvest in ethical companies that support our communities and protect our planet. [Weapon Free Funds][wff] examines mutual fund holdings data, provided by Morningstar, and scans for investments in weapon companies like military contractors, nuclear weapon servicers, and manufacturers of guns for the civilian market.
 
+## Try it out: [weaponfreefunds.org][wff]
+
+<i>&nbsp;</i>
+
 [![Weapon Free Funds screenshot]({{ site.baseurl }}/{{ page.img }})][wff]
+
+<i>&nbsp;</i>
 
 Weapon Free Funds uses a similar stack as Fossil Free Funds to analyze portfolios and measure exposure to weapon companies. A Python data analysis pipeline calculates exposure for each fund, including an Overall Weapon Risk Score, a Military Weapon Risk Score, and a Civilian Firearm score. [@jobacao][jcao] helped us build a Node back end which further analyzes fund holdings and exposes results via API. The front end is built with React and Redux. Design by [Indigo Creative Studio][indigo] and myself. Weapon Free Funds is a project of As You Sow.
 
-[Try it out: https://weaponfreefunds.org/][wff]
+<i>&nbsp;</i>
 
 #### Built with
 

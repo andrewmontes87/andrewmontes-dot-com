@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Banking on big tobacco"
+title:  "[BLOG] Banking on big tobacco"
 feature-img: "assets/img/smoky-hand.jpeg"
 thumbnail: "assets/img/smoky-hand.jpeg"
 date:   2017-10-17 11:00:00 -0800

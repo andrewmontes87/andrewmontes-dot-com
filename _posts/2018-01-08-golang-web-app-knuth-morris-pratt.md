@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple Golang web app"
+title:  "[PROJECT] Simple Golang web app"
 feature-img: "assets/img/golang.png"
 thumbnail: "assets/img/kmp-go.png"
 date:   2018-01-08 10:00:00 -0800

@@ -20,7 +20,7 @@ Sometimes you just want to play a spaceship game. Try your hand at Shmup, a simp
 <img src="/assets/img/html5-logo.png" alt="HTML5" style="width: 10%; padding: 5px;"/>
 <img src="/assets/img/coquette-logo.png" alt="Coquette" style="width: 20%; padding: 5px;"/>
 
-#### Code
+#### Codebase
 
 [Github: shoot-em-up 2D sidescroller built with coquette js][github-shmup]
 

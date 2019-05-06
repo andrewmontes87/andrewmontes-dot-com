@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vanguard’s quarter-trillion in fossil fuel investments"
+title:  "[BLOG] Vanguard’s quarter-trillion in fossil fuel investments"
 feature-img: "assets/img/carbon-emissions-sm.png"
 thumbnail: "assets/img/carbon-emissions-sm.png"
 date:   2017-12-12 11:00:00 -0800
